@@ -136,3 +136,9 @@ a {
 .reset:hover {
   cursor: pointer;
 }
+
+.header {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 200;
+}
